@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Autolayout1
+//  Project2
 //
-//  Created by Michael Le on 10/02/2017.
+//  Created by Michael Le on 07/02/2017.
 //  Copyright © 2017 Michael Le. All rights reserved.
 //
 
